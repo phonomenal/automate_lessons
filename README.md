@@ -1,5 +1,7 @@
 # Chapter 01_01
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/9dd3e273-41da-4851-906a-5060e6251f85.svg?orgId=650162616495)](https://app.soluble.cloud/repos/details/github.com/james-leha/automate_lessons?orgId=650162616495)  
+
 - Create a repository on GitHub using the [New Repository](https://github.com/new) page.  Name it something that relates to the lesson like `exercise-files`.
 
 - In a terminal, run the following commands to initialize the directory as a git repository.
